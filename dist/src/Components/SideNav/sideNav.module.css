@@ -1,0 +1,33 @@
+.wrapper {
+
+    margin-left: -30%;
+
+}
+
+
+
+.wrapper-open {
+
+    display: flex;
+
+    flex-direction: column;
+
+    background-color: #fff;
+
+    box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.5);
+
+    position: fixed;
+
+    top: 0;
+
+    left: 0;
+
+    height: 100%;
+
+    width: 30%;
+
+    margin-left: 0%;
+
+    transition: margin 0.3s;
+
+}
